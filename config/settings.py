@@ -36,6 +36,8 @@ INSTALLED_APPS += [
 
 # Apps
 INSTALLED_APPS += [
+    'api',
+    'todo',
 
 ]
 
